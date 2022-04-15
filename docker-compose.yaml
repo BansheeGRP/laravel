@@ -1,81 +1,81 @@
 services:
-  ms1:
+  laravel1:
     build: .
     ports:
       - 80:80
-  ms2:
+  laravel2:
     build: .
     ports:
       - 80:80
-  ms3:
+  laravel3:
     build: .
     ports:
       - 80:80
-  ms4:
+  laravel4:
     build: .
     ports:
       - 80:80
-  ms5:
+  laravel5:
     build: .
     ports:
       - 80:80
-  ms6:
+  laravel6:
     build: .
     ports:
       - 80:80
-  ms7:
+  laravel7:
     build: .
     ports:
       - 80:80
-  ms8:
+  laravel8:
     build: .
     ports:
       - 80:80
-  ms9:
+  laravel9:
     build: .
     ports:
       - 80:80
-  ms10:
+  laravel10:
     build: .
     ports:
       - 80:80
-  ms11:
+  laravel11:
     build: .
     ports:
       - 80:80
-  ms12:
+  laravel12:
     build: .
     ports:
       - 80:80
-  ms13:
+  laravel13:
     build: .
     ports:
       - 80:80
-  ms14:
+  laravel14:
     build: .
     ports:
       - 80:80
-  ms15:
+  laravel15:
     build: .
     ports:
       - 80:80
-  ms16:
+  laravel16:
     build: .
     ports:
       - 80:80
-  ms17:
+  laravel17:
     build: .
     ports:
       - 80:80
-  ms18:
+  laravel18:
     build: .
     ports:
       - 80:80
-  ms19:
+  laravel19:
     build: .
     ports:
       - 80:80
-  ms20:
+  laravel20:
     build: .
     ports:
       - 80:80
